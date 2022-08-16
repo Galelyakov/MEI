@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 import pyautogui                                                                                 
 import time 
-#numbers = ['550000000']
+numbers = ['550000000']
 
 print("Starting Auto Sender/n")
 time.sleep(5)
