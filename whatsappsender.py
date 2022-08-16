@@ -23,7 +23,6 @@ for i in range(len(numbers)):
     print("Sending New Msg")
     pyautogui.hotkey('ctrl' , 'v')
     pyautogui.press('enter')
-    print(593     )
     time.sleep(5)
     print("Finsh")
     time.sleep(1)
